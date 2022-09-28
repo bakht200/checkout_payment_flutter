@@ -1,16 +1,4 @@
-# flutter_payment
+# Checkout payment gateway Flutter
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/62112170/192710176-2a71b022-05bb-43f5-8c85-f19d303700dd.png" width="250">
+<img src="https://user-images.githubusercontent.com/62112170/192711141-46cf985b-d2ef-4076-b8c3-f13877e97e02.png" width="250">
